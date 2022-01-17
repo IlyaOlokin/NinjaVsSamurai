@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 198d9e758833ceb499c767780ce7d42f
+  - enabled: 0
+    path: Assets/Scenes/LevelMenu.unity
+    guid: b2d3e045ddfbc4d47ac53490fbe2290f
+  - enabled: 0
+    path: Assets/Scenes/SkinsMenu.unity
+    guid: c5aa1c0cd7a20e34c9824560d9f06f25
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: b0932eae2b868334c88bbad2d2567004
+  - enabled: 0
+    path: Assets/Scenes/Level1.unity
+    guid: fb9717545ef0b5440ab44c7861b0419a
+  - enabled: 0
+    path: Assets/Scenes/Level2.unity
+    guid: 34a9ee6bc50d465448ce97c57c315237
+  - enabled: 0
+    path: Assets/Scenes/Level3.unity
+    guid: 79a22510e48c8b44d93578e0aadb72fb
+  - enabled: 0
+    path: Assets/Scenes/Level4.unity
+    guid: 12bb8ead745be30458e3ec6f11f30c35
+  - enabled: 0
+    path: Assets/Scenes/Level5.unity
+    guid: f8b135bf160a8a2479da522dd0c04bc5
+  - enabled: 0
+    path: Assets/Scenes/Level6.unity
+    guid: 86efc4a73910b4440a5852cfb72bbe6f
+  - enabled: 0
+    path: Assets/Scenes/Level7.unity
+    guid: 6d0bce74bfa5bac4c9d2edca5a63c7f7
+  - enabled: 0
+    path: Assets/Scenes/Level1.unity
+    guid: fb9717545ef0b5440ab44c7861b0419a
+  - enabled: 0
+    path: Assets/Scenes/Level2.unity
+    guid: 34a9ee6bc50d465448ce97c57c315237
+  - enabled: 0
+    path: Assets/Scenes/Level3.unity
+    guid: 79a22510e48c8b44d93578e0aadb72fb
+  - enabled: 0
+    path: Assets/Scenes/Level4.unity
+    guid: 12bb8ead745be30458e3ec6f11f30c35
+  - enabled: 0
+    path: Assets/Scenes/Level5.unity
+    guid: f8b135bf160a8a2479da522dd0c04bc5
+  - enabled: 0
+    path: Assets/Scenes/Level6.unity
+    guid: 86efc4a73910b4440a5852cfb72bbe6f
+  - enabled: 0
+    path: Assets/Scenes/Level7.unity
+    guid: 6d0bce74bfa5bac4c9d2edca5a63c7f7
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/MainMenuSber.unity
+    guid: 6f3b8ea51e07da344aab164216503463
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/LevelMenuSber.unity
+    guid: b0d5f6c0f79765a40ae495fcb12bd713
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Tutorial1Sber.unity
+    guid: ea0132aa95f60664ab707431849280e5
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level1Sber.unity
+    guid: 119f1d19950a28643b5ebcf7c097219a
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Tutorial2Sber.unity
+    guid: e8bb4faacc2cc594d96176e0f663e175
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level2Sber.unity
+    guid: 8b3b825b9176e34439097ff01cc0fb60
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Tutorial3Sber.unity
+    guid: 08f227b0993ffc142a0709356ba12be2
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level3Sber.unity
+    guid: cbf4ecfd342dfa4428cbeace798be126
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level4Sber.unity
+    guid: 3ed9d7eedbfa4a64481dae98e4713842
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level5Sber.unity
+    guid: 3a567f213c42b8f42a34cf5f5e0c8db1
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level6Sber.unity
+    guid: 5818c98c702bb3d4d9ffaeedc33d0789
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level7Sber.unity
+    guid: 9fd458cf0afae2243bf1fb7ca972aecc
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level8Sber.unity
+    guid: 9b8564b73dd019842b143acc4a929b5f
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level9Sber.unity
+    guid: 0c90edd70cea98044aa84957f2fa5810
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level10Sber.unity
+    guid: 5c0657704a737454893f81572e4a871f
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level11Sber.unity
+    guid: 726900356b43c1a4bb89042f7cb47988
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level12Sber.unity
+    guid: 1d4f5ee339e7957418b268ddbf644f9e
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level13Sber.unity
+    guid: 2b32bbc83bd60ff4dbc1117f1996ed0a
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level14Sber.unity
+    guid: 3bce50f5d477f4b46920d807fa1b72cc
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level15Sber.unity
+    guid: e04b66093b5c49a42b19053eb23be489
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level16Sber.unity
+    guid: 80bee5337e98ce3489c1149511fda8d0
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level17Sber.unity
+    guid: f85b532ed4b73634f8af872d8fa8dd39
+  - enabled: 1
+    path: Assets/Scenes/SberCupVer/Level18Sber.unity
+    guid: a6712d6594bf25a4eb8035071dc0f0a5
+  m_configObjects: {}
